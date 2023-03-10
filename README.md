@@ -20,6 +20,7 @@
 ---
 <h1 align="center">Certificates</h1>
 
+![Image alt](https://github.com/andrechizh8/Certificates/API_certificate.pdf)
 
 ---
 
