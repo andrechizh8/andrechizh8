@@ -18,11 +18,6 @@
 - Email : andrechizh.ru@yandex.ru
 
 ---
-<h1 align="center">Certificates</h1>
-
-![Image alt](https://github.com/andrechizh8/Certificates/raw/main/API_cetrificate.pdf)
----
-
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrechizh8&show_icons=true&theme=dracula)
 
