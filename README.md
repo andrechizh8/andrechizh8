@@ -17,4 +17,4 @@
 
 [![codewars](https://www.codewars.com/users/andrechizh8/badges/micro)](https://www.codewars.com/users/username) 
 
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+
