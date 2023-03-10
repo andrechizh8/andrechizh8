@@ -11,9 +11,10 @@
   </a>
 </div>
 
-### :man_technologist: About Me :
+ About Me :
 - 🌱 I’m currently learning Python/Selenium/Pytest
 - 💬 Want to learn Java/Selenide in future
+- :zap: In my free time, I like to read books and solve problems on Codewars 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrechizh8&show_icons=true&theme=radial)
 
