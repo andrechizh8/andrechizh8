@@ -16,7 +16,7 @@
 - 💬 Want to learn Java/Selenide in future
 - :zap: In my free time, I like to read books and solve problems on Codewars 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrechizh8&show_icons=true&theme=radial)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrechizh8&show_icons=true&theme=merko)
 
 [![codewars](https://www.codewars.com/users/andrechizh8/badges/micro)](https://www.codewars.com/users/username) 
 
