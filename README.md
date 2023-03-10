@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
    <a href="https://t.me/andrechizh8">
-    <img src="https://img.shields.io/badge/Telegramm-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/Telegramm-blue?style=for-the-badge&logo=telegramm&logoColor=white%22%20alt=%22Telegramm%20Badge%22"/>
   </a>
 </div>
 
