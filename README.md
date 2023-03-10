@@ -17,4 +17,4 @@
 
 [![codewars](https://www.codewars.com/users/andrechizh8/badges/micro)](https://www.codewars.com/users/username) 
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ashutosh00710)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=andrechizh8)](https://github.com/ashutosh00710/github-readme-activity-graph)
