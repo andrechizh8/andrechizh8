@@ -11,9 +11,6 @@
   </a>
 </div>
 
----
-
-
  About Me :
 - 🌱 I’m currently learning Python/Selenium/Pytest
 - 💬 Want to learn Java/Selenide in future
