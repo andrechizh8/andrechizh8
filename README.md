@@ -33,5 +33,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original-wordmark.svg" title="Pytest" alt="Pytest" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins" alt="Jenkins" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium" alt="Selenium" width="40" height="40"/>&nbsp;
-<img src="https://github.com/Yunaika/yunaika/blob/main/img/logos/browserstack.png" title="Browserstack" alt="BrowserStack" width="40" height="40"/>&nbsp;    
+<img src="https://github.com/Yunaika/yunaika/blob/main/img/logos/browserstack.png" title="Browserstack" alt="BrowserStack" width="40" height="40"/>&nbsp; 
+<img src="https://github.com/Yunaika/yunaika/blob/main/img/logos/pycharm.png" title="Pycharm" alt="Pycharm" width="40" height="40"/>&nbsp;   
+<img src="https://github.com/Yunaika/yunaika/blob/main/img/logos/selene.png" title="Selene" alt="Selene" width="40" height="40"/>&nbsp;   
 </div>
