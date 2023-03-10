@@ -15,6 +15,7 @@
 - 🌱 I’m currently learning Python/Selenium/Pytest
 - 💬 Want to learn Java/Selenide in future
 - :zap: In my free time, I like to read books and solve problems on Codewars 
+- Email : andrechizh.ru@yandex.ru
 
 ---
 
