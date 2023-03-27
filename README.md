@@ -54,15 +54,15 @@
 #### :pencil2: Реализованы автотесты для сайта www.dns-shop.ru с использованием :
 :white_small_square: Jenkins
     
-:white_small_square: Allure Reports
+:heavy_check_mark: Allure Reports
     
-:white_small_square: Allure TestOps
+:heavy_check_mark: Allure TestOps
     
-:white_small_square: Интеграция с Jira
+:heavy_check_mark: Интеграция с Jira
     
-:white_small_square: Selenoid
+:heavy_check_mark: Selenoid
     
-:white_small_square:Telegram уведомления
+:heavy_check_mark:Telegram уведомления
  
     
 ### :iphone: <b><a href="https://github.com/andrechizh8/stepik_mobile">  STEPIK MOBILE TESTS</a>
