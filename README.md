@@ -49,5 +49,5 @@
 
 ## :books:Projects
 
-<a href="[https://www.linkedin.com/in/andrew-chizh8/]">
+<a href="https://www.linkedin.com/in/andrew-chizh8/">>DNS UI tests</a>
 
