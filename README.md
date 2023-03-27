@@ -50,3 +50,6 @@
 ## :books:Projects
 
 ### :computer: <b><a href="https://github.com/andrechizh8/ui_dns">DNS UI TESTS</a>
+    
+### :iphone: <b><a href="https://github.com/andrechizh8/stepik_mobile">STEPIK MOBILE TESTS</a>
+    
