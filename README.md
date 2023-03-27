@@ -45,5 +45,6 @@
 <img src="https://github.com/surovp/surovp/blob/main/images/logo_stacks/tg.png" title="Telegramm" alt="Telegramm" width="40" height="40"/>&nbsp;  
 </div>
 
+---
 
-### Projects:
+## Projects
