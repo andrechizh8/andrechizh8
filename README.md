@@ -47,4 +47,7 @@
 
 ---
 
-## :books:Projects:
+## :books:Projects
+
+<a href="[https://www.linkedin.com/in/andrew-chizh8/]">
+
