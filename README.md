@@ -49,4 +49,4 @@
 
 ## :books:Projects
 
-<a href="https://github.com/andrechizh8/ui_dns"><DNS UI TESTS></a>
+<p><a href="[http://www.yandex.ru](https://github.com/andrechizh8/ui_dns)">DNS UI TESTS</a></p>
