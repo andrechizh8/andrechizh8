@@ -53,10 +53,15 @@
     
 #### :pencil2: Реализованы автотесты для сайта www.dns-shop.ru с использованием :
 :white_small_square: Jenkins
+    
 :white_small_square: Allure Reports
+    
 :white_small_square: Allure TestOps
+    
 :white_small_square: Интеграция с Jira
+    
 :white_small_square: Selenoid
+    
 :white_small_square:Telegram уведомления
  
     
