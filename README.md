@@ -104,8 +104,10 @@
 
 :floppy_disk: [Техники тест-дизайна 2.0](https://github.com/andrechizh8/Certificates/blob/main/Test_design_certificate.pdf) от software-testing.ru
 
+:page_with_curl:[SQL](https://github.com/andrechizh8/Certificates/blob/main/SQL_certificate.pdf) от stepik.org
+
 :computer: "Автоматизированное тестирование на Python" от QA.GURU
 
 :blue_book: "Курс тестировщика" от Вадима Ксендзова
 
-:page_with_curl:[SQL](https://github.com/andrechizh8/Certificates/blob/main/SQL_certificate.pdf) от stepik.org
+
