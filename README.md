@@ -100,10 +100,12 @@
 ---
 ## :book: Education :
 
-:pencil: "Тестирование API" от software-testing.ru
+:pencil: [Тестирование API](https://github.com/andrechizh8/Certificates/blob/main/API_certificate.pdf) от software-testing.ru
 
-:floppy_disk: "Техники тест-дизайна 2.0" от software-testing.ru
+:floppy_disk: [Техники тест-дизайна 2.0](https://github.com/andrechizh8/Certificates/blob/main/Test_design_certificate.pdf) от software-testing.ru
 
 :computer: "Автоматизированное тестирование на Python" от QA.GURU
 
 :blue_book: "Курс тестировщика" от Вадима Ксендзова
+
+:page_with_curl:[SQL](https://github.com/andrechizh8/Certificates/blob/main/SQL_certificate.pdf) от stepik.org
