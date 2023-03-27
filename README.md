@@ -98,3 +98,12 @@
 :heavy_check_mark: Telegram уведомления
     
     
+### :book: Education :
+
+:pencil: "Тестирование API" от software-testing.ru
+
+:floppy_disk: "Техники тест-дизайна 2.0" от software-testing.ru
+
+:computer: "Автоматизированное тестирование на Python" от QA.GURU
+
+:blue_book: "Курс тестировщика" от Вадима Ксендзова
