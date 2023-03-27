@@ -52,7 +52,7 @@
 ### :computer: <b><a href="https://github.com/andrechizh8/ui_dns">DNS UI TESTS</a>
     
 #### :pencil2: Реализованы автотесты для сайта www.dns-shop.ru с использованием :
-:white_small_square: Jenkins
+:heavy_check_mark:Jenkins
     
 :heavy_check_mark: Allure Reports
     
