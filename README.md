@@ -97,8 +97,8 @@
     
 :heavy_check_mark: Telegram уведомления
     
-    
-### :book: Education :
+---
+## :book: Education :
 
 :pencil: "Тестирование API" от software-testing.ru
 
