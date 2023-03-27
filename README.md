@@ -67,7 +67,7 @@
     
 ### :iphone: <b><a href="https://github.com/andrechizh8/stepik_mobile">  STEPIK MOBILE TESTS</a>
     
-#### :pencil2: Реализованы автотесты для мобильного приложения www.dns-shop.ru с использованием :
+#### :pencil2: Реализованы автотесты для мобильного приложения STEPIK с использованием :
 
 :heavy_check_mark: Allure Reports
     
