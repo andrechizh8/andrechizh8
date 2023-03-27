@@ -67,5 +67,22 @@
     
 ### :iphone: <b><a href="https://github.com/andrechizh8/stepik_mobile">  STEPIK MOBILE TESTS</a>
     
+#### :pencil2: Реализованы автотесты для мобильного приложения www.dns-shop.ru с использованием :
+
+:heavy_check_mark: Allure Reports
+    
+:heavy_check_mark: Allure TestOps
+    
+:heavy_check_mark: Интеграция с Jira
+    
+:heavy_check_mark: Browserstack
+    
+:heavy_check_mark: Telegram уведомления
+    
+:heavy_check_mark: Android Studio
+
+:heavy_check_mark: Appium
+    
+    
 ### :octocat: <b><a href="https://github.com/andrechizh8/api_tests_restful"> API RESTFUL TESTS</a>
     
