@@ -49,4 +49,4 @@
 
 ## :books:Projects
 
-<p><a href="https://github.com/andrechizh8/ui_dns">DNS UI TESTS</a></p>
+<b><p><a href="https://github.com/andrechizh8/ui_dns">DNS UI TESTS</a></p>
