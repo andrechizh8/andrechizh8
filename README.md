@@ -30,8 +30,6 @@
 
 <div>
 
-
-
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original-wordmark.svg" title="Pytest" alt="Pytest" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins" alt="Jenkins" width="40" height="40"/>&nbsp;
@@ -43,6 +41,7 @@
 <img src="https://camo.githubusercontent.com/3962b4250e15c0906ce8c69d10601d913e3a5d4f13e97a5f4e5bb7a1b447f66e/68747470733a2f2f66732e676574636f757273652e72752f66696c65736572766963652f66696c652f646f776e6c6f61642f612f3135393632372f73632f3333332f682f33323130386464356236633963396333636634323230666536623263633766632e737667" title="Allure TestOps" alt="Allure TestOps" width="40" height="40"/>&nbsp;
 <img src="https://github.com/surovp/surovp/blob/main/images/logo_stacks/appium.png" title="Appium" alt="Appium" width="40" height="40"/>&nbsp;
 <img src="https://github.com/surovp/surovp/blob/main/images/logo_stacks/tg.png" title="Telegramm" alt="Telegramm" width="40" height="40"/>&nbsp;  
+    
 </div>
 
 ---
