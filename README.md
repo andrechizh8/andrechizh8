@@ -84,8 +84,8 @@
 :heavy_check_mark: Appium
     
     
-### :octocat: <b><a href="https://restful-booker.herokuapp.com/apidoc/index.html"> API RESTFUL TESTS</a>
-#### :pencil2: Реализованы автотесты для тестового API  www.dns-shop.ru с использованием :
+### :octocat: <b><a href="https://github.com/andrechizh8/api_tests_restful"> API RESTFUL TESTS</a>
+#### :pencil2: Реализованы автотесты для тестового API www.restful-booker.herokuapp.com с использованием :
 
 :heavy_check_mark: Allure Reports
     
