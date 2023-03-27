@@ -36,13 +36,17 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium" alt="Selenium" width="40" height="40"/>&nbsp;
 <img src="https://github.com/Yunaika/yunaika/blob/main/img/logos/browserstack.png" title="Browserstack" alt="BrowserStack" width="40" height="40"/>&nbsp; 
 <img src="https://github.com/Yunaika/yunaika/blob/main/img/logos/pycharm.png" title="Pycharm" alt="Pycharm" width="40" height="40"/>&nbsp;
-<nobr>
+<nobr> 
 <img src="https://github.com/Yunaika/yunaika/blob/main/img/logos/selene.png" title="Selene" alt="Selene" width="40" height="40"/>&nbsp;
+    <nobr> 
 <img src="https://github.com/Yunaika/yunaika/blob/main/img/logos/postman.png" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;   
+        <nobr> 
 <img src="https://camo.githubusercontent.com/3962b4250e15c0906ce8c69d10601d913e3a5d4f13e97a5f4e5bb7a1b447f66e/68747470733a2f2f66732e676574636f757273652e72752f66696c65736572766963652f66696c652f646f776e6c6f61642f612f3135393632372f73632f3333332f682f33323130386464356236633963396333636634323230666536623263633766632e737667" title="Allure TestOps" alt="Allure TestOps" width="40" height="40"/>&nbsp;
+            <nobr> 
 <img src="https://github.com/surovp/surovp/blob/main/images/logo_stacks/appium.png" title="Appium" alt="Appium" width="40" height="40"/>&nbsp;
+                <nobr> 
 <img src="https://github.com/surovp/surovp/blob/main/images/logo_stacks/tg.png" title="Telegramm" alt="Telegramm" width="40" height="40"/>&nbsp;  
-</nobr>    
+    
 </div>
 
 ---
