@@ -85,7 +85,7 @@
     
     
 ### :octocat: <b><a href="https://restful-booker.herokuapp.com/apidoc/index.html"> API RESTFUL TESTS</a>
-#### :pencil2: Реализованы автотесты для тестового API www.restful-booker.herokuapp.com с использованием :
+#### :pencil2: Реализованы автотесты для тестового API https://restful-booker.herokuapp.com/apidoc/index.html с использованием :
 
 :heavy_check_mark: Allure Reports
     
